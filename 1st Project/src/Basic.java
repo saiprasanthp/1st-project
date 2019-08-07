@@ -14,6 +14,8 @@ Basic os=new Basic();
 os.display();
 Basic.display2();
 System.out.println("end");
+		System.out.println("hello");
+
 
 	}
 
